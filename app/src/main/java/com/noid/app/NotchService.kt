@@ -14,6 +14,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.WindowManager
 import androidx.core.app.NotificationCompat
+import com.noid.app.R
 
 class NotchService : Service() {
 
